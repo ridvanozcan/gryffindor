@@ -8,7 +8,7 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
-<p align="center"><img src="https://ibb.co/N7crqC7" align="center"></img></p>
+<p align="center"><img src="https://imgyukle.com/i/k6qUJN" align="center"></img></p>
 <br>
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
