@@ -8,16 +8,14 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
-![logo](https://ucbuyucuturnuvasi.com/images/poll/flags.png)
-
+<img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img>
 <br>
 
 ## ⚡️Apk İndirme
 
-Apk yı indirmek için [tıklayın.](https://dosya.co/x0eht2edbm1l/harrypotter.apk.html
-)
+Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
 
-<img src="https://github.com/ridvanozcan/HarryPotter/blob/master/preview/demo.gif" align="right" width="30%"></img>
+<img src="https://github.com/ridvanozcan/gryffindor/blob/main/preview/demo.gif" align="right" width="30%"></img>
 
 ## 💡 Kütüphaneler
 
