@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909591898321",
+    "project_id": "harrypoter-3a4ea",
+    "storage_bucket": "harrypoter-3a4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909591898321:android:6510ac8d924e794a7a3df0",
+        "android_client_info": {
+          "package_name": "com.hongbeomi.harrypotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909591898321-8l6i6rhmucnhsgeiaggj7gjtsngoo97j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnqaN_h2RGRu0jRxofShgib6pydzGc0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909591898321-8l6i6rhmucnhsgeiaggj7gjtsngoo97j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
