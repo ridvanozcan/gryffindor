@@ -22,7 +22,7 @@
 
 Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
 
-<img src="https://turkcloud.net/image/demo.gif" align="right" width="30%"></img>
+<img src="https://github.com/ridvanozcan/gryffindor/blob/main/preview/demo.gif" align="right" width="30%"></img>
 
 ## 💡 Kütüphaneler
 
