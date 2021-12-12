@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9Whr_Im1SFo/0.jpg)](https://www.youtube.com/watch?v=9Whr_Im1SFo)
+[![Watch the video](https://github.com/ridvanozcan/gryffindor/blob/main/preview/screenshot.png)](https://youtu.be/9Whr_Im1SFo)
 <br>
 ## ⚡️Apk İndirme
 
