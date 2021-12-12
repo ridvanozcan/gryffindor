@@ -49,6 +49,7 @@ Apk indirip test etmek yerine projeyi çalıştırmak istiyorsanız aşağıdaki
   Patch 3
 -   minSdkVersion 21, targetSdkVersion 29
 - Java versiyon 1.8
+- Android studio da projeyi açtıktan sonra gerekli indirmeler otomatik yapılacaktır. Daha sonra run ederek projeyi çalıştırabilirsiniz.
 
 <br>
 
