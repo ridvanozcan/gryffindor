@@ -61,6 +61,14 @@ Apk indirip test etmek yerine projeyi çalıştırmak istiyorsanız aşağıdaki
 
 <br>
 
+
+## :people_holding_hands: Sonra Eklenecek Özellikler
+
+- Video Yükle butonu aktif edilecek ve 5 saniyelik video çekmeniz istenecek. Daha sonra çekilen videodaki yüzünüz ve sesiniz Deepfake kullanılarak Harrypotter dan bir videoda kullanılacak
+- Resim Yükle butonu aktif edilecek ve selfie çekmeniz istenecek. Daha sonra çekilen resim görüntü işleme teknikleri kullanılarak en çok hangi Harrypotter karakterine benziyorsun sonucu verecek.
+
+<br>
+
 ## 📝 Lisans
 
 ```
