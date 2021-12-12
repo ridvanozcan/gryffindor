@@ -10,7 +10,8 @@
 
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9Whr_Im1SFo/0.jpg)](https://www.youtube.com/watch?v=9Whr_Im1SFo)
+<br>
 ## ⚡️Apk İndirme
 
 Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
@@ -38,7 +39,7 @@ Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/r
 - [Material-Dioalog](https://github.com/afollestad/material-dialogs)
 - [ARCore SDK for Android](https://github.com/google-ar/arcore-android-sdk)
   <br>
-  card/kotlin.png"></img>
+
 
 <br>
 
