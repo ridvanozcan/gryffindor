@@ -8,16 +8,15 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
-![logo](https://ucbuyucuturnuvasi.com/images/poll/flags.png)
-
+<p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9Whr_Im1SFo/0.jpg)](https://www.youtube.com/watch?v=9Whr_Im1SFo)
+<br>
 ## ⚡️Apk İndirme
 
-Apk yı indirmek için [tıklayın.](https://dosya.co/x0eht2edbm1l/harrypotter.apk.html
-)
+Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
 
-<img src="https://github.com/ridvanozcan/HarryPotter/blob/master/preview/demo.gif" align="right" width="30%"></img>
+<img src="https://github.com/ridvanozcan/gryffindor/blob/main/preview/demo.gif" align="right" width="30%"></img>
 
 ## 💡 Kütüphaneler
 
@@ -40,7 +39,7 @@ Apk yı indirmek için [tıklayın.](https://dosya.co/x0eht2edbm1l/harrypotter.a
 - [Material-Dioalog](https://github.com/afollestad/material-dialogs)
 - [ARCore SDK for Android](https://github.com/google-ar/arcore-android-sdk)
   <br>
-  card/kotlin.png"></img>
+
 
 <br>
 
@@ -51,6 +50,7 @@ Apk indirip test etmek yerine projeyi çalıştırmak istiyorsanız aşağıdaki
   Patch 3
 -   minSdkVersion 21, targetSdkVersion 29
 - Java versiyon 1.8
+- Android studio da projeyi açtıktan sonra gerekli indirmeler otomatik yapılacaktır. Daha sonra run ederek projeyi çalıştırabilirsiniz.
 
 <br>
 
