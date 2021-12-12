@@ -8,21 +8,21 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
-<p align="center"><img src="https://www.hizliresim.com/95jrzej" align="center"></img></p>
+<p align="center"><img src="https://hizliresim.com/95jrzej" align="center"></img></p>
 <br>
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
 
 ## :tv: Proje Videosu
 
-<p align="center"><a href="https://youtu.be/9Whr_Im1SFo"><img src="https://www.hizliresim.com/97guk79" align="center"></img></a></p>
+<p align="center"><a href="https://youtu.be/9Whr_Im1SFo"><img src="https://hizliresim.com/97guk79" align="center"></img></a></p>
 <br>
 
 ## ⚡️Apk İndirme
 
 Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
 
-<img src="https://www.hizliresim.com/3l2vuyh" align="right" width="30%"></img>
+<img src="https://hizliresim.com/3l2vuyh" align="right" width="30%"></img>
 
 ## 💡 Kütüphaneler
 
