@@ -10,9 +10,12 @@
 
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
+
 ## :tv: Proje Videosu
+
 <p align="center"><a href="https://youtu.be/9Whr_Im1SFo"><img src="https://github.com/ridvanozcan/gryffindor/blob/main/preview/screenshot.png" align="center"></img></a></p>
 <br>
+
 ## ⚡️Apk İndirme
 
 Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
