@@ -15,14 +15,14 @@
 
 ## :tv: Proje Videosu
 
-<p align="center"><a href="https://youtu.be/9Whr_Im1SFo"><img src="https://hizliresim.com/97guk79" align="center"></img></a></p>
+<p align="center"><a href="https://youtu.be/9Whr_Im1SFo"><img src="https://turkcloud.net/image/screenshot.png" align="center"></img></a></p>
 <br>
 
 ## ⚡️Apk İndirme
 
 Apk yı indirmek için [tıklayın.](https://github.com/ridvanozcan/gryffindor/releases)
 
-<img src="https://hizliresim.com/3l2vuyh" align="right" width="30%"></img>
+<img src="https://turkcloud.net/image/demo.gif" align="right" width="30%"></img>
 
 ## 💡 Kütüphaneler
 
