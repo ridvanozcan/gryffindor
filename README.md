@@ -8,7 +8,7 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
-<img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img>
+<p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
 
 ## ⚡️Apk İndirme
