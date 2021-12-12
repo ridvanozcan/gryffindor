@@ -8,6 +8,8 @@
 
 <p align="center">Harry Potter Arttırılmış Gerçeklik Uygulaması</p>
 
+<p align="center"><img src="https://github.com/ridvanozcan/gryffindor/blob/main/preview/ucbuyucu.png" align="center"></img></p>
+<br>
 <p align="center"><img src="https://ucbuyucuturnuvasi.com/images/poll/flags.png" align="center"></img></p>
 <br>
 
